@@ -22,6 +22,7 @@ Steps to run:
 Important Note:-
 My mysql username is root and password is NULL and hostname is localhost. So, Make sure you change your settings according to your own username, password and hostname in all the three python files which otherwise would generate an error.
 
-Feel free to contact me at haymant_1998@outlook.com
+Feel free to contact me at tvikas6523@gmail.com
+
 
 ---------------------------Hope it works-----------------------------------------
